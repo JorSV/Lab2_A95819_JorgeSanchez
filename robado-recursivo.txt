@@ -1,133 +1,133 @@
 Collar Robado: 00E6B51C, Valor: 3545, Peso:505
 Collar Robado: 00E6B4DC, Valor: 3253, Peso:551
 Collar Robado: 00E6B4FC, Valor: 2604, Peso:629
-Moneda Robada: 00C3F180, Valor: 86, Peso:110
-Moneda Robada: 00C3F180, Valor: 99, Peso:182
+Moneda Robada: 00C3E898, Valor: 86, Peso:110
+Moneda Robada: 00C3E424, Valor: 99, Peso:182
 Peso total del botin: 1977, Valor total del botin: 9587, Especio libre en saco:20
 Collar Robado: 00E6B83C, Valor: 3545, Peso:505
 Collar Robado: 00E6B7FC, Valor: 3253, Peso:551
 Collar Robado: 00E6B81C, Valor: 2604, Peso:629
-Moneda Robada: 00C3F180, Valor: 86, Peso:110
-Moneda Robada: 00C3F180, Valor: 99, Peso:182
+Moneda Robada: 00C3E898, Valor: 86, Peso:110
+Moneda Robada: 00C3E424, Valor: 99, Peso:182
 Peso total del botin: 1977, Valor total del botin: 9587, Especio libre en saco:20
 Collar Robado: 00E6BD4C, Valor: 3545, Peso:505
 Collar Robado: 00E6BD0C, Valor: 3253, Peso:551
 Collar Robado: 00E6BD2C, Valor: 2604, Peso:629
-Moneda Robada: 00C3F180, Valor: 86, Peso:110
-Moneda Robada: 00C3F180, Valor: 99, Peso:182
+Moneda Robada: 00C3E898, Valor: 86, Peso:110
+Moneda Robada: 00C3E424, Valor: 99, Peso:182
 Peso total del botin: 1977, Valor total del botin: 9587, Especio libre en saco:20
 Collar Robado: 00E6C21C, Valor: 3500, Peso:565
 Corona Robada: 00E6C2BC, Valor: 4388, Peso:838
 Anillo Robado: 00E6C34C, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6C38C, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E6C72C, Valor: 3500, Peso:565
 Corona Robada: 00E6CC64, Valor: 4388, Peso:838
 Anillo Robado: 00E6CCF4, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6CD34, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E6D0D4, Valor: 3500, Peso:565
 Corona Robada: 00E6D174, Valor: 4388, Peso:838
 Anillo Robado: 00E6D204, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6D244, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E6D5E4, Valor: 3500, Peso:565
 Corona Robada: 00E6D684, Valor: 4388, Peso:838
 Anillo Robado: 00E6D714, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6D754, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E6DAF4, Valor: 3500, Peso:565
 Corona Robada: 00E6DB94, Valor: 4388, Peso:838
 Anillo Robado: 00E6DC24, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6DC64, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E6E004, Valor: 3500, Peso:565
 Corona Robada: 00E6E0A4, Valor: 4388, Peso:838
 Anillo Robado: 00E6E134, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6E174, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E6E514, Valor: 3500, Peso:565
 Corona Robada: 00E6E5B4, Valor: 4388, Peso:838
 Anillo Robado: 00E6E644, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6E684, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E6EA24, Valor: 3500, Peso:565
 Corona Robada: 00E6EAC4, Valor: 4388, Peso:838
 Anillo Robado: 00E6EB54, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6EB94, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E6EF34, Valor: 3500, Peso:565
 Corona Robada: 00E6EFD4, Valor: 4388, Peso:838
 Anillo Robado: 00E6F064, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6F0A4, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E6F444, Valor: 3500, Peso:565
 Corona Robada: 00E6F4E4, Valor: 4388, Peso:838
 Anillo Robado: 00E6F574, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6F5B4, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E6F954, Valor: 3500, Peso:565
 Corona Robada: 00E6F9F4, Valor: 4388, Peso:838
 Anillo Robado: 00E6FA84, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6FAC4, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E6FE64, Valor: 3500, Peso:565
 Corona Robada: 00E6FF04, Valor: 4388, Peso:838
 Anillo Robado: 00E6FF94, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E6FFD4, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E70374, Valor: 3500, Peso:565
 Corona Robada: 00E70414, Valor: 4388, Peso:838
 Anillo Robado: 00E704A4, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E704E4, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E70884, Valor: 3500, Peso:565
 Corona Robada: 00E70924, Valor: 4388, Peso:838
 Anillo Robado: 00E709B4, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E709F4, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E70D94, Valor: 3500, Peso:565
 Corona Robada: 00E70E34, Valor: 4388, Peso:838
 Anillo Robado: 00E70EC4, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E70F04, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E712A4, Valor: 3500, Peso:565
 Corona Robada: 00E71344, Valor: 4388, Peso:838
 Anillo Robado: 00E713D4, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E71414, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E717B4, Valor: 3500, Peso:565
 Corona Robada: 00E71854, Valor: 4388, Peso:838
 Anillo Robado: 00E718E4, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E71924, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E71CC4, Valor: 3500, Peso:565
 Corona Robada: 00E71D64, Valor: 4388, Peso:838
 Anillo Robado: 00E71DF4, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E71E34, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E721D4, Valor: 3500, Peso:565
 Corona Robada: 00E72274, Valor: 4388, Peso:838
 Anillo Robado: 00E72304, Valor: 189, Peso:209
-Moneda Robada: 00C3F180, Valor: 81, Peso:126
+Moneda Robada: 00C3E71C, Valor: 81, Peso:126
 Anillo Robado: 00E72344, Valor: 157, Peso:247
 Peso total del botin: 1985, Valor total del botin: 8315, Especio libre en saco:12
 Collar Robado: 00E726A4, Valor: 3929, Peso:583
