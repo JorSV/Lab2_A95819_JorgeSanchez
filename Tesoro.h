@@ -16,7 +16,9 @@ using namespace std;
 
 class Tesoro{
 
-	public:
+	friend class Pirata;
+
+	private:
 		//Rangos de Monedas:
 		pair <int, int> cantidadDeMonedas = {5, 10};
 		pair <int, int> valoresDeMonedas {1, 100};
@@ -34,10 +36,24 @@ class Tesoro{
 		pair <int, int> valoresDeAnillos = {100, 200};
 		pair <int, int> pesoDeAnillos = {200, 300};
 
-		int generarRandom(int, int);
+		int tamañoArregloMonedas;
+		int tamañoArregloCollares;
+		int tamañoArregloCoronas;
+		int tamañoArregloAnillos;
+
+		Moneda * arregloMonedas;
+		Collar * arregloCollares;
+		Corona * arregloCoronas;
+		Anillo * arregloAnillos;
 
 		int totalObjetosEnTesoro;
+		pair<char, double> * tesoroOrdenado;
 
+		void generarArregloOrdenado();
+		int generarRandom(int, int);
+
+	public:
+		void imprimirTesoro();
 		Tesoro();
 		~Tesoro();
 };
