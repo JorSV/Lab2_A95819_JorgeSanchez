@@ -1,0 +1,5 @@
+Collar Robado: 0082913C, Valor: 3594, Peso:548
+Collar Robado: 0082917C, Valor: 3289, Peso:619
+Anillo Robado: 0082AEB4, Valor: 181, Peso:211
+Anillo Robado: 0082AED4, Valor: 162, Peso:235
+Peso total del botin: 1613, Valor total del botin: 7226, Especio libre en saco:70

@@ -1,0 +1,23 @@
+Monedas: 
+Moneda 1: valor: 13, Peso: 146, ID unico: 0082ACE4
+Moneda 2: valor: 49, Peso: 178, ID unico: 0082AD04
+Moneda 3: valor: 31, Peso: 143, ID unico: 0082AD24
+Moneda 4: valor: 18, Peso: 143, ID unico: 0082AD44
+Moneda 5: valor: 2, Peso: 194, ID unico: 0082AD64
+Moneda 6: valor: 14, Peso: 134, ID unico: 0082AD84
+Moneda 7: valor: 79, Peso: 128, ID unico: 0082ADA4
+Moneda 8: valor: 72, Peso: 139, ID unico: 0082ADC4
+Collares: 
+Collar 1: valor: 3594, Peso: 548, ID unico: 0082913C
+Collar 2: valor: 3572, Peso: 807, ID unico: 0082915C
+Collar 3: valor: 3289, Peso: 619, ID unico: 0082917C
+Collar 4: valor: 2980, Peso: 721, ID unico: 0082919C
+Coronas: 
+Corona 1: valor: 3080, Peso: 1014, ID unico: 0082AE24
+Corona 2: valor: 2541, Peso: 1481, ID unico: 0082AE4C
+Anillos: 
+Anillo 1: valor: 181, Peso: 211, ID unico: 0082AEB4
+Anillo 2: valor: 162, Peso: 235, ID unico: 0082AED4
+Anillo 3: valor: 112, Peso: 265, ID unico: 0082AEF4
+Anillo 4: valor: 149, Peso: 287, ID unico: 0082AF14
+Anillo 5: valor: 110, Peso: 236, ID unico: 0082AF34
